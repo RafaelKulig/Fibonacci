@@ -25,8 +25,3 @@ If no arguments are provided, the script will prompt the user for input.
 
 ## License
 This project is open-source and available for educational and personal use.
-
-# Coming Next
-* Euler number with n decimal places
-* Prime number fatoration
-* Next prime number
